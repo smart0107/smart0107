@@ -16,7 +16,7 @@ As a fast learner and problem solver, I want to apply my software development sk
 
 ▲ Language : JavaScript | TypeScript | PHP | Python | Java | Golang | C#
 
-▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue | JavaScript | TypeScript | Tailwind CSS | Framer
+▲ Front-End : React.js | Next.js | Vue | Angular | Redux | Vue.js | Nuxt | JavaScript | TypeScript | Tailwind CSS | Framer
 
 ▲ Back-End : Node.js | Express | Laravel | Django | Ruby on Rails | Nest.js | ASP.NET
 
