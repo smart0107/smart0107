@@ -22,7 +22,7 @@ As a fast learner and problem solver, I want to apply my software development sk
 
 ▲ Database Manage : MySql | MongoDB | PostgreSQL | Firebase
 
-▲ ChatBot Development : Telegram Bot | Discord Bot | Chatgpt | AI Chatbot | Trading Bot | Cryptocurrency | AI/ML
+▲ ChatBot Development : Telegram Bot | Discord Bot | Chatgpt | Trading Bot | Cryptocurrency | AI/ML
 
 <br>
 
