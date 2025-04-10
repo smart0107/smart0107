@@ -2,7 +2,7 @@
 <h1 align="center">Welcome to my Github!👋</h1>
 
 <h3 align='center'>
-  Senior Full Stack Developer
+  Senior Full Stack Developer👨🏻‍💻
 </h4>
 
 ## About me:
